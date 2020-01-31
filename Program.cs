@@ -11,7 +11,6 @@ namespace UserInputAngelicaNguyen
             string greeting;
             greeting = Console.ReadLine();
             Console.WriteLine("You typed:" + greeting);
-
         }
     }
 }
